@@ -1,0 +1,15 @@
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\bin\Debug\net5.0\CompanyApp.Core.deps.json
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\bin\Debug\net5.0\CompanyApp.Core.dll
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\bin\Debug\net5.0\ref\CompanyApp.Core.dll
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\bin\Debug\net5.0\CompanyApp.Core.pdb
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\CompanyApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\CompanyApp.Core.AssemblyInfoInputs.cache
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\CompanyApp.Core.AssemblyInfo.cs
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\CompanyApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\staticwebassets\CompanyApp.Core.StaticWebAssets.Manifest.cache
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\staticwebassets\CompanyApp.Core.StaticWebAssets.xml
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\scopedcss\bundle\CompanyApp.Core.styles.css
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\CompanyApp.Core.RazorTargetAssemblyInfo.cache
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\CompanyApp.Core.dll
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\ref\CompanyApp.Core.dll
+C:\Users\adrian.cano.ITEQUIA\source\repos\CompanyApi\CompanyApp.Core\obj\Debug\net5.0\CompanyApp.Core.pdb
